@@ -1,15 +1,15 @@
 # WEB14203-Ricardo-Welch
 
 
-# database
+# Database
 https://thimbleprojects.org/baddeo/113848/
 
 
-# blog
+# Blog
 http://fourthfloor.raveweb.net/ricardowelch
 
 
-# rsearch 
+# Research 
 - http://www.arngren.net
 - http://www.gatesnfences.com 
 - http://www.rudgwicksteamshow.co.uk 
