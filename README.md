@@ -10,8 +10,8 @@ http://fourthfloor.raveweb.net/ricardowelch
 
 
 # rsearch 
-http://www.arngren.net
-http://www.gatesnfences.com 
-http://www.rudgwicksteamshow.co.uk 
-http://uglytub.com 
-http://www.mrbottles.com 
+- http://www.arngren.net
+- http://www.gatesnfences.com 
+- http://www.rudgwicksteamshow.co.uk 
+- http://uglytub.com 
+- http://www.mrbottles.com 
